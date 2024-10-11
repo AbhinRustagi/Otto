@@ -1,3 +1,12 @@
+---
+name: Feature
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Feature Description
 
 <!-- Provide a detailed description of the feature or improvement you're suggesting. Explain what problem it solves or the value it adds. -->

@@ -1,3 +1,12 @@
+---
+name: Bug
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Bug Description
 
 <!-- Provide a clear and concise description of the bug. Include any relevant details about what you expected to happen and what actually happened. -->
