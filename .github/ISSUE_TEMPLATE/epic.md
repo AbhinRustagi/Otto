@@ -1,3 +1,12 @@
+---
+name: Epic
+about: Group a bunch of features as a big change into this issue
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # Epic Title
 
 Feature: Awesome Feature Title
