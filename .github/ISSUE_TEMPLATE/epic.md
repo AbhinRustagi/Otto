@@ -2,7 +2,7 @@
 name: Epic
 about: Group a bunch of features as a big change into this issue
 title: ''
-labels: ''
+labels: documentation, enhancement
 assignees: ''
 
 ---
